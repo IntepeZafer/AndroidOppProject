@@ -6,7 +6,7 @@ public class Mucusian {
 
     public void setAge(int age , String password) {
         if (password == "123"){
-            Age = age;
+            this.Age = age;
         }
     }
 
